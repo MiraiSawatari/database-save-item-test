@@ -1,0 +1,27 @@
+CRAFT:
+  goldapple:
+    0: I-43
+    1: I-43
+    2: I-43
+    3: I-43
+    4: I-43
+    5: I-43
+    6: I-43
+    7: I-43
+    8: I-43
+    shape: "012,345,678"
+    craftitem: I-43
+    amount: 10
+  iron:
+    0:
+    1:
+    2:
+    3: I-44
+    4: I-44
+    5: I-44
+    6:
+    7:
+    8:
+    shape: "   ,345,   "
+    craftitem: I-45
+    amount: 3

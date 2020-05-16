@@ -1,0 +1,10 @@
+name: Test
+main: CraftBook.Main
+version: 1.0
+author: Mirai
+description: Test
+commands:
+  savetest:
+    description: For Staff
+  loadtest:
+    description: For Staff
